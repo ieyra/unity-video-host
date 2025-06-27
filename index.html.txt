@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Unity Video Host</title></head>
+  <body>
+    <h1>Video is hosted</h1>
+  </body>
+</html>
